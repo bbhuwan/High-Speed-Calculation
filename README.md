@@ -1,0 +1,2 @@
+# High-Speed-Calculation
+CUDA C++ based high performance engine for CFD based simulations. CFD (Computational Fluid Dynamics) systems require higher amount of processing due to involvement of large number of particles. CPU cannot handle all the necessary computations and hence state of art CUDA technology comes in. Millions of particles are computed under data-structre handled in GPU resulting in high performance output.
